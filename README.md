@@ -1,8 +1,4 @@
 <h1 align="center">🛒 Target Brazil – SQL Analytics (BigQuery)</h1>
-<p align="center">
-Analysis of ~100,000 e-commerce orders (2016–2018) to understand customer behavior,  
-sales trends, logistics performance, and payment patterns in Brazil.
-</p>
 
 ---
 
