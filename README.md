@@ -8,7 +8,7 @@ This case study analyzes operational data to identify growth trends, regional de
 logistics efficiency, and payment behavior using **SQL on Google BigQuery**.
 
 📄 **Solution PDF:**  
-https://github.com/nikhil1728/E-Commerce/blob/main/E-Commerce.pdf
+https://drive.google.com/file/d/1cQPBksF7mMKmDiuyvZtK2ju7Bu97rPbp/view
 
 ---
 
